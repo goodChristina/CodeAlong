@@ -1,6 +1,6 @@
 # ☕ Java Practice Repository ☕
 
-This Christina's repo for practicing different concepts in **Java**.
+This is Christina's repo for practicing different concepts in **Java**.
 
 ## Purpose
 
