@@ -30,7 +30,3 @@ Feel free to:
 ## Notes
 
 This repository is intended for learning, snooping and experimentation, not production.
-
----
-
-Happy coding! 
