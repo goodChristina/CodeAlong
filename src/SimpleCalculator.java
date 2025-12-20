@@ -25,7 +25,7 @@ public class SimpleCalculator {
             case '-' -> result = num1 - num2;
             case '/' -> {
                 if (num2 == 0) {
-                    System.out.println("Cannot devide by zero");
+                    System.out.println("Cannot divide by zero");
                     validOperation = false;
                 } else {
                     result = num1 / num2;
