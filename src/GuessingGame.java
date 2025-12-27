@@ -10,11 +10,13 @@ public class GuessingGame {
 
         int guess;
         int attempts = 0;
-        int randomNumber = random.nextInt(1,11); //range
+        int min = 1;
+        int max = 100;
+        int randomNumber = random.nextInt(min,max + 1); //range
 
         //System.out.println(randomNumber);
         System.out.println("Number Guessing Game!");
-        System.out.println("Guess a number between 1-10: ");
+        System.out.printf("Guess a number between %d-%d:\n ", min , max);
 
         do{
             System.out.print("Guess a number: ");
