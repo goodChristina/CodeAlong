@@ -1,7 +1,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZuMW9iODl6MG03bTRhdTgybHR0enpnaGZ1YnMyM241aDd0bTVyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8peoAs2FyXGFRf5C/giphy.gif" width="120"/>
 
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="60"/> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
+# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZuMW9iODl6MG03bTRhdTgybHR0enpnaGZ1YnMyM241aDd0bTVyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8peoAs2FyXGFRf5C/giphy.gif" width="120"/> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
 
 
 
