@@ -1,7 +1,7 @@
 
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="55" /> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="95" /> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
 
 
 
