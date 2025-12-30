@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YzY0ZHNzNnlnMm54eWg2aGNva3BwY2U4MDdidXFvNGRseWZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YzY0ZHNzNnlnMm54eWg2aGNva3BwY2U4MDdidXFvNGRseWZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" width="260"/> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5YzY0ZHNzNnlnMm54eWg2aGNva3BwY2U4MDdidXFvNGRseWZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ML15sUZFNyMy0Yv55m/giphy.gif" width = "260"/> 
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="60"/> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
