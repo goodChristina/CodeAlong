@@ -1,12 +1,10 @@
 
-# Java Practice Repository ☕
-
-# $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$
+# $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ ☕
 
 
 Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my repo for practicing different concepts in **Java**.
 
-## <span style="color: brown;">Purpose</span>
+## $${\color{brown}Purpose}$$
 
 The main goal of this repository is to:
 - Practice Java (not be confused with Javascript)
