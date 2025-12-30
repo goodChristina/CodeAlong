@@ -1,7 +1,7 @@
 
-<p align="center"> 
-# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="60" /> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
-</p> 
+
+# <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="60"                     /> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
+
 
 
 
