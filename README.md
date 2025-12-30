@@ -1,5 +1,7 @@
 
-# <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZuMW9iODl6MG03bTRhdTgybHR0enpnaGZ1YnMyM241aDd0bTVyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8peoAs2FyXGFRf5C/giphy.gif" width="70"/> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
+
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
 
 
 
