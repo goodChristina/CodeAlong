@@ -1,6 +1,8 @@
 
 # <span style="color: brown;">Java Practice Repository</span> ☕
 
+$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$
+
 Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my repo for practicing different concepts in **Java**.
 
 ## <span style="color: brown;">Purpose</span>
