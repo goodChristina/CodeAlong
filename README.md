@@ -6,9 +6,6 @@
 
 Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my repo for practicing different concepts in **Java**.
 
-<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="160" />
-
-
 ## $${\color{orange}Purpose}$$
 
 The main goal of this repository is to:
@@ -38,4 +35,4 @@ Feel free to:
 
 This isn't for reproduction. Just a place to practice. 
 
-# ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ ☕ #
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="160" />
