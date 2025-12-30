@@ -1,25 +1,25 @@
 # ☕ Java Practice Repository ☕
 
-This is Christina's repo for practicing different concepts in **Java**.
+Hi, my name is Christina, but you can call me Cris. This is my repo for practicing different concepts in **Java**.
 
 ## Purpose
 
 The main goal of this repository is to:
-- Practice core Java fundamentals
-- Experiment with object-oriented programming concepts
-- Learn and reinforce Java syntax and best practices
-- Try out new ideas, patterns, and problem-solving approaches
+- Practice Java (not be confused with Javascript)
+- Try new concepts
+- Get used to the quirks of Github
 
 ## Contents
 
-You may find examples related to:
+You might see:
+
 - Variables and data types  
-- Control flow (loops, conditionals)  
+- Loops, conditionals
 - Methods and classes  
-- Object-Oriented Programming (OOP) concepts  
-- Collections and data structures  
-- Exception handling  
-- File I/O and other Java features  
+- Object-Oriented Programming concepts  
+- Data structures  
+- Excellent exception handling  
+- Games
 
 ## Usage
 
@@ -29,4 +29,4 @@ Feel free to:
   
 ## Notes
 
-This repository is intended for learning, snooping and experimentation, not production.
+This isn't for reproduction. Just a place to practice. 
