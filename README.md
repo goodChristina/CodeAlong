@@ -4,7 +4,7 @@
 # $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
 
 
-Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my repo for practicing different concepts in **Java**.
+Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my main repo for practicing **Java** and testing random code.
 
 ## $${\color{orange}Purpose}$$
 
@@ -12,18 +12,6 @@ The main goal of this repository is to:
 - Practice Java (not be confused with Javascript)
 - Try new concepts
 - Get used to the quirks of Github
-
-## $${\color{orange}Contents}$$
-
-You might see:
-
-- Variables and data types  
-- Loops, conditionals
-- Methods and classes  
-- Object-Oriented Programming concepts  
-- Data structures  
-- Excellent exception handling  
-- Games
 
 ## $${\color{orange}Usage}$$
 
@@ -35,4 +23,4 @@ Feel free to:
 
 This isn't for reproduction. Just a place to practice. 
 
-<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif" align="right" width="160" />
