@@ -1,7 +1,7 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="90" /> 
 
-# $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ 
+# $${\color{brown}Java \space \color{orange}Practice \space \color{orange}Repository}$$ <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="90" />
+
 
 
 Hi, my name is Christina, but you can call me <span style="color: teal;">Cris</span>. This is my main repo for practicing **Java** and testing random code.
