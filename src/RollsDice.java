@@ -26,8 +26,8 @@ public class RollsDice {
 
                 //Call the method of printDie
                 printDie(roll);
-                Thread.sleep(500);
                 System.out.println("You rolled: " + roll);
+                Thread.sleep(500);
                 total += roll;
 
             }
