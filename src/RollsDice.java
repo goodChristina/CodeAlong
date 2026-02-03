@@ -31,6 +31,7 @@ public class RollsDice {
                 total += roll;
 
             }
+            System.out.println();
             System.out.println("Your total is: "+total);
         } else {
             System.out.println("Number of dice must be 1 or more!");
