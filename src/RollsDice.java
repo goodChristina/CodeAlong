@@ -1,8 +1,11 @@
 import java.util.Random;
 import java.util.Scanner;
+import java.util.Timer;
+import java.util.TimerTask;
+
 
 public class RollsDice {
-    static void main() {
+    static void main() throws InterruptedException {
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -23,6 +26,7 @@ public class RollsDice {
 
                 //Call the method of printDie
                 printDie(roll);
+                Thread.sleep(500);
                 System.out.println("You rolled: " + roll);
                 total += roll;
 
