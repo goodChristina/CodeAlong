@@ -24,7 +24,7 @@ public class Main {
         Car car2 = new Car();
 
         System.out.println(car1.make + " " + car1.model);
-        System.out.println(car2.make + " " + car2.model);
+        System.out.println(car2.make + " " + car2.model + " is driven by...");
 
     }
 }
